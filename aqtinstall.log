@@ -1,0 +1,8 @@
+2026-10-14 14:55:50,860 - aqt.main - INFO - installer 17696 aqtinstall(aqt) v3.3.0 on Python 3.12.14 [CPython MSC v.1944 64 bit (AMD64)]
+2026-10-14 14:55:50,861 - aqt.helper - DEBUG - helper 17696 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt6_683/qt6_683/Updates.xml.sha256
+2026-10-14 14:56:39,635 - aqt.helper - WARNING - helper 17696 Connection to 'https://download.qt.io' failed. Retrying with fallback 'https://qtproject.mirror.liquidtelecom.com/'.
+2026-10-14 14:56:39,635 - aqt.helper - DEBUG - helper 17696 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt6_683/qt6_683/Updates.xml.sha256
+2026-10-14 14:57:13,305 - aqt.helper - DEBUG - helper 17696 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/extensions/qtwebengine/683/msvc2022_64/Updates.xml.sha256
+2026-10-14 14:57:20,690 - aqt.archives - INFO - archives 17696 Found extension qtwebengine
+2026-10-14 14:57:20,690 - aqt.helper - DEBUG - helper 17696 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/extensions/qtpdf/683/msvc2022_64/Updates.xml.sha256
+2026-10-14 14:58:02,404 - aqt.main - ERROR - installer 17696 Failure to connect to https://qtproject.mirror.liquidtelecom.com/online/qtsdkrepository/windows_x86/extensions/qtpdf/683/msvc2022_64/Updates.xml: ConnectTimeout
