@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CodeBlocks_project_file>
+  <FileVersion major="1" minor="6" />
+  <Project>
+    <Option title="hello_cpp" />
+    <Option compiler="gcc" />
+    <Build>
+      <Target title="Debug">
+        <Option output="bin/Debug/hello_cpp" prefix_auto="1" extension_auto="1" />
+        <Option type="1" />
+        <Compiler><Add option="-std=c++17" /><Add option="-Wall" /><Add option="-g" /></Compiler>
+      </Target>
+    </Build>
+    <Unit filename="main.cpp"><Option compilerVar="CPP" /></Unit>
+  </Project>
+</CodeBlocks_project_file>
